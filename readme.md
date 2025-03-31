@@ -4,7 +4,7 @@ Este proyecto forma parte de una prueba técnica para evaluar las habilidades de
 
 ## Objetivo
 
-El candidato deberá realizar modificaciones en la página de inicio, enfocándose en la selección de estilos, tipografía y colores. Además, deberá justificar sus decisiones de diseño en base a principios de usabilidad, accesibilidad y alineación con la identidad visual del sector inmobiliario en EE.UU.
+El candidato deberá realizar modificaciones en la siguiente página de inicio: "https://mytruewayhome.com". Modificando cada una se las secciones, enfocándose en la selección de estilos, tipografía y colores. Además, deberá justificar sus decisiones de diseño en base a principios de usabilidad, accesibilidad y alineación con la identidad visual del sector inmobiliario en EE.UU.
 
 ## Tareas a realizar
 
