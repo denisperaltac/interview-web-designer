@@ -30,7 +30,12 @@ El candidato deberá realizar modificaciones en la página de inicio, enfocándo
 - Utilizar herramienta Figma para el desarrollo del proyecto.
 - Diseño responsivo para garantizar una buena visualización en dispositivos móviles y escritorio.
 
+## Tiempo estimado
+
+El tiempo estimado para completar este proyecto es de 3 días.
+
 ## Evaluación
+
 Se valorará:
 
 - **Coherencia y estetica del diseño** con el sector inmobiliario.
